@@ -2,7 +2,7 @@
 
 # In this tutorial we build a simple calculator applicaton using TornadoFX and Kotlin.  
 
-### Check out the Youtube Tutorial for this [Kotlin Tutorial](https://youtu.be/q3jdHfvnsHE).  Here is our [Youtube Channel](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) Subscribe for more content.
+### Check out the Youtube Tutorial for this [Kotlin Tutorial](https://youtu.be/hx_1oqJzXN4).  Here is our [Youtube Channel](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) Subscribe for more content.
 
 ### Check out our blog at [tensor-programming.com](http://tensor-programming.com/).
 
